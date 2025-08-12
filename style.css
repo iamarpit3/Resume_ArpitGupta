@@ -1,0 +1,22 @@
+html{
+    background-color: #faf9f6;
+    font-style: italic;
+}
+
+
+h1{
+    font-style: normal;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2{
+    font-style: normal;
+    text-align: center;
+    color: green;
+    text-transform: none;
+    text-decoration: underline;
+    
+}
